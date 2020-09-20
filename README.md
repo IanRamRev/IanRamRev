@@ -1,5 +1,6 @@
-### Hi everyone 👋 :octocat:
-### I'm Ian Ramírez Revilla 
+### Hi everyone 👋 :octocat: I'm Ian Ramírez Revilla :mexico:
+
+I'm appasionate web development and data analyst.
 
 <!--
 **IanRamRev/IanRamRev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
