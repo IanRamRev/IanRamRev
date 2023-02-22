@@ -1,6 +1,6 @@
 ### Hi everyone 👋 :octocat: I'm Ian Ramírez Revilla :mexico:
 
-I'm passionate web development and data analyst.
+I'm a professional with experiencie and knowledge in BI visualizations tools like **Power BI**, **Tableau** and data modeler for those tools; extracting data with **SQL**, using **Databricks** for develop of analytics with **Python**
 
 <!--
 **IanRamRev/IanRamRev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
