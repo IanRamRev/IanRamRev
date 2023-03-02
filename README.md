@@ -1,6 +1,16 @@
-### Hi everyone 👋 :octocat: I'm Ian Ramírez Revilla :mexico:
+### Hi everyone! 👋 :octocat: 
+#### I'm Ian Ramírez Revilla :mexico:
 
-I'm a professional with experiencie and knowledge in BI visualizations tools like **Power BI**, **Tableau** and data modeler for those tools; extracting data with **SQL**, using **Databricks** for develop of analytics with **Python**
+I'm a professional with experiencie and knowledges in: 
+* BI visualization solutions with **Power BI** and **Tableau**
+* Extracting data from databases with **SQL**  
+* Knowledge processing, analyzing and visualizing data with **Python** and modules like _pandas_, _numpy_, _matplotlib_, _seaborn_ and others.
+* Processing data with Databricks notebooks using Python modules and **Pyspark** 
+* Applying advanced analytics for solutions with modules _scikit learn_ and _TensorFlow_ 
+
+<!--
+I'm passionate for Naturaal Language Processing and I have knowledge about process of text and some algorithms of NLP
+-->
 
 I'm currently learning some courses related Data Engineer like **Apache Airflow**, **Apache Kafka**, **Pyspark**, **Databricks** and **Google Big Query**
 
